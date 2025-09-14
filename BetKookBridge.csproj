@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+
+    <OutputType>WinExe</OutputType>
+
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+
+    <UseWindowsForms>true</UseWindowsForms>
+
+    <Nullable>enable</Nullable>
+
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <AssemblyName>BetKookBridge</AssemblyName>
+
+    <Version>17.0.0</Version>
+
+    <FileVersion>17.0.0.0</FileVersion>
+
+    <AssemblyVersion>17.0.0.0</AssemblyVersion>
+
+    <Product>BetKookBridge</Product>
+
+    <Company>SC Tools</Company>
+
+    <Description>Star Citizen Game.log → KOOK webhook bridge</Description>
+
+  </PropertyGroup>
+
+</Project>
+
